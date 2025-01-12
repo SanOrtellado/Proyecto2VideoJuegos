@@ -7,7 +7,7 @@
 El objetivo del análisis predictivo para la industria de videojuegos es anticipar comportamientos futuros del mercado basándose en datos históricos. Esto permite a las empresas y actores clave del sector tomar decisiones estratégicas que maximicen ingresos y optimicen recursos.
 
 ## Objetivos específicos:
--Identificar tendencias de crecimiento o declive:
+-Identificar tendencias de crecimiento o declive.
 -Prever el comportamiento de ventas en las diferentes regiones, plataformas y géneros para orientar esfuerzos de producción y marketing.
 
 ## Optimizar estrategias de mercado:
